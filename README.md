@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://kassa.bifit.com/wiki/images/thumb/7/72/Product-1c.svg/2048px-Product-1c.svg.png" title="1c" **alt="1c" width="40" height="40"/>
 </div>
-<div align="end">
-  <img src="https://i.pinimg.com/474x/20/4f/8e/204f8e9b0059cca9635405f97dcbe4b2.jpg?nii=t" title="i" **alt="i" width="40" height="40"/>
+<div align="end " style="margin-right:400px;">
+  <img src="https://i.pinimg.com/474x/20/4f/8e/204f8e9b0059cca9635405f97dcbe4b2.jpg?nii=t" title="i" **alt="i" />
 </div>
 
