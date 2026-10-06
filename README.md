@@ -18,15 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="zustand" alt="zustand " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://kassa.bifit.com/wiki/images/thumb/7/72/Product-1c.svg/2048px-Product-1c.svg.png" title="1c" **alt="1c" width="40" height="40"/>
+  
 </div>
-<div align="right">
-  <table>
-    <tr>
-      <td style="border: none !important;">
-        <img src="https://i.pinimg.com/474x/20/4f/8e/204f8e9b0059cca9635405f97dcbe4b2.jpg?nii=t" title="i" width="150" alt="i" hspace="170" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
