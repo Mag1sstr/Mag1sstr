@@ -18,5 +18,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="zustand" alt="zustand " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://kassa.bifit.com/wiki/images/thumb/7/72/Product-1c.svg/2048px-Product-1c.svg.png" title="1c" **alt="1c" width="40" height="40"/>
 </div>
 
